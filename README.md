@@ -9,4 +9,4 @@ We are a community of students, professors, and other enthusiasts interested in 
 * [Join Discord](https://discord.gg/8ngWt7x8)
 * [Talk calendar](https://calendar.google.com/calendar/u/0?cid=bmV1cmFsLnNlcXVlbmNlLm1vZGVsc0BnbWFpbC5jb20)
 * [Youtube](https://www.youtube.com/channel/UCrp8k-nSuMKHM4sSUvlPdAw) (recorded talks)
-* [Organizers](organizers.html)
+* [Organizers](members.html)
